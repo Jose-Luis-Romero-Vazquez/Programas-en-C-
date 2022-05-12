@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589601160 source:d:\ejercicio 75\main.cpp
+	<cstring>
+	<iostream>
+	<cctype>
+

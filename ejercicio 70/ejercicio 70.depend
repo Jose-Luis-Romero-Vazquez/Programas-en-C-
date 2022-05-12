@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588909476 source:d:\ejercicio 70\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<cstdlib>
+
